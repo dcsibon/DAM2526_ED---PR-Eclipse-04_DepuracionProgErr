@@ -1,5 +1,5 @@
 
-# Guía completa: Breakpoints en Eclipse
+# Guía: Breakpoints en Eclipse
 
 ## 1) Crear un breakpoint “normal”
 
