@@ -1,5 +1,5 @@
 
-# Guía completa: Breakpoints condicionales en Eclipse
+# Guía completa: Breakpoints en Eclipse
 
 ## 1) Crear un breakpoint “normal”
 
@@ -7,11 +7,11 @@
 2. Haz **doble clic** en el margen izquierdo de la línea onde quieras pausar la ejecución de tu programa → aparece un círculo azul (breakpoint de línea).
 3. Ejecuta en modo **Debug** (icono del bicho). El programa se parará cada vez que pase por esa línea.
 
-> Esto ya funciona, pero se detiene **en todas las iteraciones**. Vamos a condicionarlo.
+> Esto ya funciona, pero se detiene **en todas las iteraciones**.
 
 ---
 
-## 2) Convertirlo en **condicional**
+## 2) Convertir un breakpoint en **condicional**
 
 1. Clic derecho sobre el círculo azul → **Breakpoint Properties…**
 2. Marca **Enabled** *(activo)* y **Conditional**.
