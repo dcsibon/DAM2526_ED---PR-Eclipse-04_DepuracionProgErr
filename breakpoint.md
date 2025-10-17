@@ -26,8 +26,9 @@ Pulsa **OK**.
 
 ## 3) ¿Qué significan las opciones que aparecen en la ventana `Breakpoint Properties`?
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/a29be2a8-ef38-482f-883d-4d847b8de8a1" />
-
+<p align="center">
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/a29be2a8-ef38-482f-883d-4d847b8de8a1" />
+</p>
 
 ### Sección principal
 
@@ -71,8 +72,9 @@ Activa la evaluación de una **expresión Java** en el contexto de esa línea.
 
 ## 4) Menú contextual de los *Breakpoints* en Eclipse *(opciones interesantes o más utilizadas)*
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/22b2f1bf-61a2-4f7d-8e36-f220476e13f4" />
-
+<p align="center">
+  <img width="400" alt="imagen del menú contextual de los breakpoints" src="https://github.com/user-attachments/assets/22b2f1bf-61a2-4f7d-8e36-f220476e13f4" />
+</p>
 
 Cuando haces clic derecho sobre el punto de interrupción (círculo azul del margen izquierdo), Eclipse muestra un menú con diversas opciones que permiten **controlar su comportamiento**.
 Estas son las más importantes:
