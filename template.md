@@ -130,5 +130,3 @@ ${cursor}
 
 ---
 
-¿Quieres que te genere una **segunda plantilla complementaria** (`pedirentero`) para comparar, usando `nextInt()` y validando un rango diferente (por ejemplo, 1 a 100)?
-Te serviría para que los alumnos practiquen cómo crear y modificar plantillas por sí mismos.
